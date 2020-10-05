@@ -15,17 +15,15 @@ def find_even_values(src)
         
         p src[row_index][element_index]
         
-        element_index += 1 
-        
-      else 
-        
-        element_index += 1 
         
       end
-      
-      row_index += 1 
-      
+        
+        element_index += 1 
+        
     end
+      
+    row_index += 1 
+      
     
   end
   
